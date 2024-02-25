@@ -47,12 +47,12 @@ To get started with Motion, follow these steps:
 1. Clone the repository:
 git clone https://github.com/janishiestand/Motion.git
 
-2 .Install dependencies:
+2. Install dependencies:
 cd Motion
 npm install
 
 3. Start the development server:
 npm start
 
-4.Access the Application:
+4. Access the Application:
 Open your preferred web browser and navigate to localhost to access the Motion application.
